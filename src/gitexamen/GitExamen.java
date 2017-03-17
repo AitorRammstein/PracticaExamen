@@ -15,7 +15,7 @@ public class GitExamen {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Practica examen");
+        System.out.println("Practica examen 1");
     }
     
 }
